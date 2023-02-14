@@ -19,17 +19,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO WORLD] <a name="about-project"></a>A simple webage showing Hello world!
+# 📖 HELLO WORLD <a name="about-project"></a> 
 
-> Describe your project in 1 or 2 sentences.
-
-**[HELLO WORLD]** is a simple webpage designed as a Microverse project
+ 
+HELLO WORLD is a simple webpage designed as a Microverse project
 
 ## 🛠 Built With <a name="built-with"></a>HTML and CSS
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 HTML and CSS
 
@@ -37,7 +34,6 @@ HTML and CSS
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Heading]**
 - **[Styling]**
@@ -48,17 +44,16 @@ HTML and CSS
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>clone from repository: https://github.com/Enoisong/Hello-world
+## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+clone from repository: https://github.com/Enoisong/Hello-world
 
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need to:
 
-Install Live server VScode extension and run GO LIVE
+Install Live server VScode extension and run Go Live
 
 ### Setup
 
@@ -80,9 +75,9 @@ npx stylelint "**/*.{css,scss}"
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a> Enobong Isong
+## 👥 Authors <a name="authors"></a> 
 
-> Mention all of the collaborators of this project.
+Enobong Isong
 
 👤 **Author**
 
@@ -94,8 +89,6 @@ npx stylelint "**/*.{css,scss}"
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,8 +96,6 @@ If you like this project, give me a star
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for thier support.
 
