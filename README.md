@@ -13,6 +13,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
  - [👥 Authors](#authors)
+ - [🔭 Future Features](#future-features)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -67,6 +68,11 @@ Install this project with:
 
  VScode
 
+### Usage
+
+To run the project:  
+Install the Live server extension of the VScode and run Go Live
+
 ### Run tests
 
 To run linters tests, run the following command: 
@@ -84,6 +90,14 @@ Enobong Isong
 - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [Navbar] **[Add navbar]**
+- [Paragraph] **[Add paragraph]**
+- [Footer] **[Add footer]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -105,7 +119,7 @@ I would like to thank Microverse community for thier support.
 
 ## 📝 License <a name="license"></a> N/A
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
