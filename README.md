@@ -12,10 +12,10 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
- - [👥 Authors](#authors)
+ - [👥 Author](#author)
  - [🔭 Future Features](#future-features)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Acknowledgement](#acknowledgement)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -25,7 +25,7 @@
  
 HELLO WORLD is a simple webpage designed as a Microverse project
 
-## 🛠 Built With <a name="built-with"></a>HTML and CSS
+## 🛠 Built With <a name="built-with"></a> 
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -36,8 +36,8 @@ HTML and CSS
 ### Key Features <a name="key-features"></a>
 
 
-- **[Heading]**
-- **[Styling]**
+- **Heading**
+- **Styling**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -79,9 +79,9 @@ To run linters tests, run the following command:
 npx hint .
 npx stylelint "**/*.{css,scss}"
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a> 
+## 👥 Author <a name="authors"></a> 
 
 Enobong Isong
 
@@ -93,9 +93,9 @@ Enobong Isong
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Navbar] **[Add navbar]**
-- [Paragraph] **[Add paragraph]**
-- [Footer] **[Add footer]**
+- Navbar  
+- Paragraph 
+- Footer  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,9 +107,9 @@ If you like this project, give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENT -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgment <a name="acknowledgement"></a>
 
 I would like to thank Microverse community for thier support.
 
@@ -117,7 +117,7 @@ I would like to thank Microverse community for thier support.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a> N/A
+## 📝 License <a name="license"></a> 
 
 This project is [MIT](./MIT.md) licensed.
 
